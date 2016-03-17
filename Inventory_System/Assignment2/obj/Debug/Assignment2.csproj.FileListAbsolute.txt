@@ -1,0 +1,9 @@
+C:\Sachin\Conestoga\MSD Sem1\PROG8145-software development tech\practice\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Sachin\Conestoga\MSD Sem1\PROG8145-software development tech\practice\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Sachin\Conestoga\MSD Sem1\PROG8145-software development tech\practice\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Sachin\Conestoga\MSD Sem1\PROG8145-software development tech\practice\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Sachin\Conestoga\MSD Sem1\PROG8145-software development tech\practice\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+C:\Sachin\Conestoga\MSD Sem1\PROG8145-software development tech\practice\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+G:\MSD Sem 1\PROG8145-software development tech\Assignments\Assignment2Ready\Assignment2\bin\Debug\Assignment2.exe.config
+G:\MSD Sem 1\PROG8145-software development tech\Assignments\Assignment2Ready\Assignment2\obj\Debug\Assignment2.exe
+G:\MSD Sem 1\PROG8145-software development tech\Assignments\Assignment2Ready\Assignment2\obj\Debug\Assignment2.pdb

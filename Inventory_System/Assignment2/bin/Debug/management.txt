@@ -1,0 +1,6 @@
+5
+?,help, ,Prints this help menu
+lf,lstfiles, ,Lists the files in working directory
+ldb,loaddb,fname,Loads the database file
+sdb,savedb,fname,saves the current database to file
+q,quit, ,Ends the program and returns

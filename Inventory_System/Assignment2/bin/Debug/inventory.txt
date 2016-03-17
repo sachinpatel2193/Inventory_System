@@ -1,0 +1,6 @@
+5
+li,lstitems, ,Lists all items in inventory
++,inc,code qty,Increase an item stock in inventory
+-,dec,code qty,Decrease an item stock in inventory
+lw,low, ,Lists items with low stock level
+pk,prek,k,Lists preorder quantities for k days
